@@ -1,16 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Ben-Atherton # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: benatherton.com
+    url: https://www.benatherton.com
+  - name: benatherton.dev
+    url: https://www.benatherton.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
